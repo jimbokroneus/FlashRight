@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     private static boolean isOn= false;
     private Button button;
-    private static Camera cam;
+    private static Camera
+            cam;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
