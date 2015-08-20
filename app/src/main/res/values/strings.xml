@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlashRight</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message"><![CDATA[100% Ad & Malware Free]]></string>
+</resources>

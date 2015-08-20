@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+    </style>
+
+    <style name="ButtonStyle" parent="AppTheme">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:background">@color/electric_blue</item>
+    </style>
+
+    <style name="HeaderStyle" parent="AppTheme">
+
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textColor">@color/electric_blue</item>
+    </style>
+</resources>
